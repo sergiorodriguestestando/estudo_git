@@ -2,6 +2,8 @@ package br.ce.wcaquino.entidades;
 
 import java.util.Date;
 
+//tesee
+
 public class Locacao {
 
 	private Usuario usuario;

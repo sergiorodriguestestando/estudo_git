@@ -1,9 +1,9 @@
-package br.ce.wcaquino.entidades;
+
 
 public class Filme {
 
 
-//teste
+//teste323232
 	private String nome;
 	private Integer estoque;
 	private Double precoLocacao;  
