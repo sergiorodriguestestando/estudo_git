@@ -33,7 +33,7 @@ public class Filme {
 	public Double getPrecoLocacao() {
 		return precoLocacao;
 	}
-	public void setPrecoLocaca(ouble precoLocacao) {
+	public void setPrecoLocaca(double precoLocacao) {
 		this.precoLocacao = precoLocacao;
 	}
 }
